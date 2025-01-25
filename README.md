@@ -1,6 +1,6 @@
 
 Hi, I'm Hanzlah Mehmmod Ch 👋
-I'm a Computer Science student currently in my 3rd semester at FAST NUCES, Islamabad, Pakistan. I'm passionate about coding and problem-solving, especially using C++.
+I'm a Computer Science student studying at FAST NUCES, Islamabad, Pakistan. I'm passionate about coding and problem-solving, especially using C++.
 <br>
 🛠️ Skills:
 <br>
